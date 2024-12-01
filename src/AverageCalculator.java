@@ -20,4 +20,5 @@ public class AverageCalculator {
         avg = (double)sum/count;
         return  avg;
     }
+
 }
