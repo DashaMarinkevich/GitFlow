@@ -1,0 +1,11 @@
+[33mcommit b2f3e7cfb814d91b547f9cac254f1b5c6ad824f5[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32m1.0.0/develop_1[m[33m, [m[1;31morigin/featches_1[m[33m, [m[1;32mfeatches_1[m[33m)[m
+Author: DashaMarinkevich <dasha_marinkevich@mail.ru>
+Date:   Sun Dec 1 22:11:09 2024 +0300
+
+    Add new featch - add method average
+
+[33mcommit 4a9a7b8c9a872f8c2f26b90b1d5a31701696d336[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/1.0.0/develop_1[m[33m, [m[1;32mmain[m[33m)[m
+Author: DashaMarinkevich <dasha_marinkevich@mail.ru>
+Date:   Sun Dec 1 21:41:09 2024 +0300
+
+    First commit for master
