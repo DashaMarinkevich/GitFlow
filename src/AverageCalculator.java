@@ -10,8 +10,14 @@ public class AverageCalculator {
             int num = scanner.nextInt();
             sum += num;
         }
-        double average = (double) sum / n;
-        System.out.println("Среднее: " + average);
+        System.out.println("Среднее: " + AverageMethod(sum,n));
         scanner.close();
+    }
+
+
+    private static double AverageMethod (int sum,int count){
+        double avg;
+        avg = (double)sum/count;
+        return  avg;
     }
 }
